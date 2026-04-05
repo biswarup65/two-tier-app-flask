@@ -48,6 +48,6 @@ services:
 networks:
   mynetwork-pvt:
 
-networks:
+volumes:
   mysql-data-db:
 
